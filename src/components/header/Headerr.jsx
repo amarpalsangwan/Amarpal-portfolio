@@ -41,12 +41,6 @@ const Headerr = () => {
                         </a>
                     </li>
 
-                    {/*  <li className="nav_item">
-                        <a href="#services" className="nav_link">
-                            <i className="uil uil-briefcase-alt nav_icon"></i>Services
-                        </a>
-                    </li> */}
-
                     <li className="nav_item">
                         <a href="#qualification" onClick={() => setActiveNav("#qualification")} className={activeNav === "home" ? "nav_link active_link" : "nav_link"}>
                             <i className="uil uil-scenery nav_icon"></i>Qualification

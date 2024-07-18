@@ -23,7 +23,7 @@ const Contactt = () => {
                         <i className="uil uil-whatsapp-alt contact_card_icon"></i>
                         <h3 className="contact_card_title">Whatsapp</h3>
                         <span className="contact_card_data">+91 7005070002</span>
-                        <a href="https://api.whatsapp.com/send?phone=+917005070002&text=Hello, more information!" className="contact_button">Write me <i className="uil uil-arrow-right contact_button_icon"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=+917005070002&text=Hello Amarpal" className="contact_button" target='_blank'>Write me <i className="uil uil-arrow-right contact_button_icon"></i></a>
                     </div>
 
                     
